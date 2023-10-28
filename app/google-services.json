@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377386265620",
+    "project_id": "core-ev",
+    "storage_bucket": "core-ev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377386265620:android:fd990c4d2fc4c99222cb01",
+        "android_client_info": {
+          "package_name": "com.example.coreev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4X6B8roMwgLVmTcJzeaLn4sCJ7jC47NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

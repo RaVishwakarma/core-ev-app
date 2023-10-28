@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">core ev</string>
+    <string name="skip_intro">SKIP INTRO</string>
+    <string name="next">NEXT</string>
+    <string name="didn_t_get_otp_resend">Didn\'t get OTP? Resend</string>
+    <string name="submit">Submit</string>
+    <string name="_92xxxxxxxxxx">+92xxxxxxxxxx</string>
+    <string name="please_enter_the_verification_code_sent_to_92xxxxxxxxxx">Please enter the verification code sent to +92xxxxxxxxxx</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="Continue">Continue</string>
+
+
+</resources>
